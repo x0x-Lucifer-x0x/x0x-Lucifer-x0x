@@ -46,6 +46,13 @@
   "status"   : "ACTIVELY BUILDING"
 }
 ```
+## `> snake.exe`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/x0x-Lucifer-x0x/x0x-Lucifer-x0x/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
@@ -171,16 +178,6 @@ drwxr-xr-x  Smart City AI Platform     [IN PROGRESS ████░░░░░�
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0x-Lucifer-x0x&theme=github_dark"/>
-
-</div>
-
----
-
-## `> snake.exe`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/x0x-Lucifer-x0x/x0x-Lucifer-x0x/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
