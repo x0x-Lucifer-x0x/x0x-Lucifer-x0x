@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/x0x-Lucifer-x0x/x0x-Lucifer-x0x/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/x0x-Lucifer-x0x/x0x-Lucifer-x0x/output/github-contribution-grid-snake.svg" />
 
 </div>
 
