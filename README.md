@@ -18,7 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://meetvachhani-portfolio.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/x0x-Lucifer-x0x/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meevachhani77@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-00FF88?style=for-the-badge&logo=readthedocs&logoColor=black)](https://github.com/x0x-Lucifer-x0x/my_resume/blob/main/Meet_Vachhani.pdf)
+[![Resume](https://img.shields.io/badge/Resume-00FF88?style=for-the-badge&logo=readthedocs&logoColor=black)](https://github.com/x0x-Lucifer-x0x/my_resume/blob/main/Meet_Vachhani_AI.pdf)
 
 </div>
 
