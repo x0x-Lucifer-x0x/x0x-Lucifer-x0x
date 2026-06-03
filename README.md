@@ -149,14 +149,6 @@ drwxr-xr-x  Smart City AI Platform     [IN PROGRESS ████░░░░░�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=x0x-Lucifer-x0x&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0x-Lucifer-x0x&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=x0x-Lucifer-x0x&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=00FF88&dates=AAAAAA"/>
 
 </div>
